@@ -1,0 +1,72 @@
+.logo{
+  align-items: center;
+  display: flex;
+
+}
+.logo img{
+  width: 48px;
+  height: 48px;
+
+}
+.logo span{
+  font-size: 24px;
+  padding-left: 6px;
+  font-weight: bold;
+}
+.footer{
+  text-align: center;
+}
+.container{
+  padding:20px;
+}
+.leftcontainer{
+  width:400px;
+  float: left;
+}
+.carousel{
+  width:400px;
+  float: left;
+}
+.imageblock {
+  float: left;
+}
+
+.custom-card {
+  padding: 2px;
+}
+
+.custom-card p {
+  color: #999;
+}
+
+.register{
+  float: right !important;
+}
+
+/*image block******END*****/
+
+iframe {
+  position: relative !important;
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+}
+
+#content {
+  font-size: 12px !important;
+}
+
+.ant-menu-horizontal > .ant-menu-item > a, .ant-menu-horizontal > .ant-menu-submenu > a
+{
+  display: inline-block !important;
+}
+a{
+  color:#797979 !important;
+}
+.topNewsList li{
+  height: 32px;
+  line-height: 32px;
+  font-size: 16px;
+}
+a:hover{
+  color:#108ee9 !important;
+}
